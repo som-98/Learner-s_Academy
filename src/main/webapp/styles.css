@@ -1,0 +1,96 @@
+@charset "UTF-8";
+body
+{
+	font-family: Tahoma, sans-serif;
+	background:url("https://cdn.eso.org/images/screen/eso1907a.jpg");
+	background-size:cover;
+	background-attachment: fixed;
+}
+.maincontainer
+{
+	display:flex;
+	width:1000px;
+	height:800px;
+	margin:auto;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
+.container
+{
+	margin:auto;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	height:570px;
+	width:400px;
+	background-color: rgba(20, 121, 210, 0.406);
+	border-radius:10px;
+	
+}
+.cb{
+	color:white;
+}
+.container1
+{
+	margin:auto;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	height:570px;
+	width:350px;
+	background-color: rgba(20, 121, 210, 0.406);
+	border-radius:10px;
+	
+}
+
+
+.item
+{
+	text-align:center;
+	margin:auto;
+	margin:10px;
+}
+.Data
+{
+	text-align: center;
+
+	margin:10px;
+}
+a
+{
+		color:white;
+}
+.checkbox
+{
+	margin:20px;
+}
+
+.btn {
+    margin: auto;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: .5s;
+    background-size: 200% auto;
+    color: #fff;
+    background-color:#ff0080;
+    border:none;
+    border-radius:10px;
+    display: block;
+}
+.tb
+{
+	width:300px;
+	height:40px;
+	border-radius:10px;
+	border:none;
+	text-align:center;
+	margin:auto;
+}
+h1
+{
+	font-size:30px;
+	color:white;
+	text-align:center;
+}
